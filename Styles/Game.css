@@ -1,0 +1,17 @@
+.Game {
+  background-color: #363636;
+  color: white;
+  margin: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.Title {
+  font: bolder;
+  margin-bottom: 0;
+}
+
+.Tags {
+  display: inline;
+  margin-top: 0;
+}

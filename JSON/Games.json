@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Anime Game",
+    "Tags": ["Anime", "Indie"]
+  },
+  {
+    "Name": "Simulation Game",
+    "Tags": ["Simulation", "Indie"]
+  },
+  {
+    "Name": "Early Access Game",
+    "Tags": ["Early Access", "Simulation"]
+  },
+  {
+    "Name": "Anime Simulation",
+    "Tags": ["Anime", "Simulation"]
+  },
+  {
+    "Name": "Early Access Indie Game",
+    "Tags": ["Early Access", "Indie"]
+  }
+]

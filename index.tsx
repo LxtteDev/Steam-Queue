@@ -3,6 +3,8 @@ import { render } from 'react-dom';
 import Hello from './Hello';
 import './style.css';
 
+import Game from './Components/Game.tsx'
+
 interface AppProps { }
 interface AppState {
   name: string;
@@ -18,11 +20,12 @@ class App extends Component<AppProps, AppState> {
 
   render() {
     return (
-      <div>
+      <div className="App">
         <Hello name={this.state.name} />
         <p>
           Start editing to see some magic happen :)
         </p>
+        <Game Title={"Test"} />
       </div>
     );
   }
